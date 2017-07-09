@@ -1,0 +1,159 @@
+body{
+	background-image: url("http://cdn.wallpapersafari.com/53/71/vJbqiQ.jpg");
+	background-size: cover;
+	color: #000305;
+	font-size: 87.5%;
+	font-family: Arial,'Lucida Sans Unicode';
+	line-height: 1.5;
+	text-align: left;	
+}
+a{
+	text-decoration: none;
+}
+a:link , a:visited {
+
+}
+a:hover, a:active {
+
+}
+.body{
+	margin: 0 auto;
+	width: 70%;
+	clear: both;
+}
+.unmukt{
+	width: 30%;
+	height: 20%;
+	margin: 4%;
+}
+.IIT_Kanpur_Logo{
+	float:right;
+	width: 20%;
+	margin:4%;
+	height: 15%;
+	border-bottom: #f00;
+}
+.mainheader nav{
+	background-color: #666;
+	height: 40px;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+.mainheader nav ul{
+	list-style: none;
+	margin: auto;
+}
+.mainheader nav ul li{
+	float: left;
+	display: inline-block;
+}
+.mainheader nav a:link ,.mainheader nav a:visited{
+	color: #FFF;
+	display: inline-block;
+	padding: 10px 10px;
+	height: 20px;
+}
+.mainheader nav a:hover,.mainheader nav a:active{
+	background-color: green;
+	text-shadow: none;
+}
+.mainheader nav ul li a{
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+.maincontents{
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+.contents{
+	width: 100%;
+	float: left;
+}
+.topcontent{
+	background-color: #FFF;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	padding: 2% 3% 2% 2%;
+	margin-top: 3%;
+}
+.middlecontent{
+	background-color: #FFF;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	padding: 2% 3% 2% 2%;
+	margin-top: 3%;
+}
+.bottomcontent{
+	background-color: #FFF;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	padding: 2% 3% 2% 2%;
+	margin-top: 3%;
+}
+.top-sidebar{
+	float: left;
+	background-color: #FFF;
+	width: 21%;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin-left: 2%;
+	margin-top: 2%;
+	padding: 2% 3% 2% 2%;
+}
+.middle-sidebar{
+	float: left;
+	background-color: #FFF;
+	width: 21%;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin-left: 2%;
+	margin-top: 2%;
+	padding: 2% 3% 2% 2%;
+}
+.bottom-sidebar{
+	float: left;
+	background-color: #FFF;
+	width: 21%;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin-left: 2%;
+	margin-top: 2%;
+	padding: 2% 3% 2% 2%;
+}
+.main-footer p{
+	background-color: #666;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	width: 100%;
+	float: left;
+	margin-top: 3%;
+	margin-bottom: 2%;
+}
+.image-middle-sidebar{
+	width: 105%;
+	float: left;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+.image-top-sidebar{
+	width: 105%;
+	float: left;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}

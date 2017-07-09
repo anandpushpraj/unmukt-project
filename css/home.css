@@ -1,0 +1,122 @@
+body{
+	background-image: url("http://sleeksearch.s3.amazonaws.com/u/udb/be/07/cd/5c/62277/1422357575/website-backgrounds-nature.jpg");
+	background-size: cover;
+	color: #000305;
+	font-size: 87.5%;
+	font-family: Arial,'Lucida Sans Unicode';
+	line-height: 1.5;
+	text-align: left;	
+}
+a{
+	text-decoration: none;
+}
+a:link , a:visited {
+
+}
+a:hover, a:active {
+
+}
+.body{
+	margin: 0 auto;
+	width: 70%;
+	clear: both;
+}
+.unmukt{
+	width: 30%;
+	height: 20%;
+	margin: 4%;
+	border:10px;
+	border-style: solid;
+	border-color: red;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+.IIT_Kanpur_Logo{
+	float:right;
+	width: 20%;
+	margin:4%;
+	height: 15%;
+	border-bottom: #f00;
+}
+.mainheader nav{
+	background-color: #666;
+	height: 40px;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	padding: 2% 2% 2% 2%
+	font-size: 50px;
+	text-align: center;
+}
+.mainheader nav ul{
+	list-style: none;
+	margin: auto;
+}
+.mainheader nav ul li{
+	float: left;
+	display: inline-block;
+}
+.mainheader nav a:link ,.mainheader nav a:visited{
+	color: #FFF;
+	display: inline-block;
+	padding: 10px 10px;
+	height: 20px;
+}
+.mainheader nav a:hover,.mainheader nav a:active{
+	background-color: green;
+	text-shadow: none;
+}
+.mainheader nav ul li a{
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+.maincontent{
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+.content{
+	width:70%;
+	float: left;
+}
+.maincontent .content .img{
+	width: 70%;
+	margin: 2% 3% ;
+	background-color: #FFF;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	padding: 2% 3% 2% 2%;
+	margin-left: 5.5%;
+}
+
+.sidebar .phrase{
+	float: left;
+	background-color: #FFF;
+	width: 30%;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin-left: -10%;
+	margin-top: 2%;
+	padding: 2% 3% 2% 2%;
+}
+.main-footer p{
+	background-color: #666;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	width: 100%;
+	float: left;
+	margin-top: 1%;
+	margin-bottom: 2%;
+}
+.imagebar .imgs{
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin-top: 1%;
+	margin-bottom: 2%;
+}

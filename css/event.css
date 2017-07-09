@@ -1,0 +1,27 @@
+._content{
+	width: 100%;
+}
+.main_content{
+	width: 94%;
+	background-color: cyan;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	padding: 3% 3% 3% 3%;
+	margin-top: 2%;
+	margin-bottom: 3%;
+}
+._image{
+	width: 75%;
+	background-color: #FFF;
+	border-radius: 6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	padding: 3% 3% 3% 3%;
+	margin-top: 3%;
+	margin-left: 10%;
+	margin-right: 15%;
+}
+._image img{
+	width: 100%;
+}
